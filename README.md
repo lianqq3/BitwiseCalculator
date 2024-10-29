@@ -3,6 +3,7 @@ The Bitwise Calculator is an Android application developed using Kotlin and Andr
 
 # Features
 - User-Friendly Interface: Simple and intuitive UI for easy interaction.
+  
 - Bitwise Operations:
   - AND (&)
   - OR (|)
@@ -10,5 +11,7 @@ The Bitwise Calculator is an Android application developed using Kotlin and Andr
   - NOT (~)
   - Left Shift (<<)
   - Right Shift (>>)
+    
 - Input Validation: Ensures that only valid integer inputs are processed.
+  
 - Result Display: Shows the results of the bitwise operations in both decimal and binary formats.
